@@ -1,0 +1,2 @@
+# ScalaKafkaSample
+Scala Kafka Maven
